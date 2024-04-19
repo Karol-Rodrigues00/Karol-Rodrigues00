@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Karolyne Rodrigues
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👩‍💻 Karolyne Rodrigues Duarte | 🎓 Estudante de Bacharelado em Ciência da Computação no IFCE
 
-<!---
-Karol-Rodrigues00/Karol-Rodrigues00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Apaixonada por desafios tecnológicos, especialmente em bancos de dados e análise de dados!
+
+💻 Proficiente em: Java, JavaScript, Python e C.
+
+🌟 Explorando o mundo da tecnologia com entusiasmo e dedicação!
+
+🚀 Vamos codar juntos e transformar ideias em realidade! 😊
